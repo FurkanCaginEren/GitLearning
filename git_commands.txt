@@ -13,3 +13,5 @@ git log
 git diff ==> version controls
 
 git checkout ==> turning back
+
+githup => without readme u can add via git and link
