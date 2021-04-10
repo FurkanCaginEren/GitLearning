@@ -35,6 +35,12 @@ Remote rep is ==> GitHub
 
 Derine yardım edildi
 
+git branch name_of_branch ==>  used branch_merge 
+
+git checkout branch-merge ==> changing branch in git
+
+
+
 
 
 
