@@ -25,4 +25,17 @@ git push -u origin master
 	origin is the root master is the branch here
 
 
+Master Branch is followed by main program in localy 
+
+Remote Reposityory can be parelel or sinked together
+
+Local rep is ==> .git
+
+Remote rep is ==> GitHub
+
+
+
+
+
+
 
