@@ -1,0 +1,15 @@
+git config
+
+git init
+
+git add file.
+
+git commit -m  "COMMENT"
+
+git status
+
+git log
+
+git diff ==> version controls
+
+git checkout ==> turning back
