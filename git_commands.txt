@@ -33,7 +33,7 @@ Local rep is ==> .git
 
 Remote rep is ==> GitHub
 
-
+Derine yardım edildi
 
 
 
